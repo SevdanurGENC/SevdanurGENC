@@ -10,12 +10,14 @@
 - 🔭 I’m currently working on my doctoral thesis 
 - 🌱 I’m currently learning on data science
 - 👯 I’m looking to collaborate on data science projects
-- ✍🏻 I wrote coding articles on sevdanurgenc.com
+- ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com">
+    <img src="https://profile-summary-for-github.com/user/SevdanurGENC" />
+  </a> http://sevdanurgenc.com
 - 💬 Ask me about everything
 - 📫 How to reach me: sevdanurgenc@gmail.con 
+- ⚡ https://profile-summary-for-github.com/user/SevdanurGENC 
   </p>
 
-https://profile-summary-for-github.com/user/SevdanurGENC
 
 
 <p align='center'>
