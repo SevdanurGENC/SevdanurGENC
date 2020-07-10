@@ -15,6 +15,7 @@
 - 💬 Ask me about everything
 - 📫 How to reach me: sevdanurgenc@gmail.con 
 - ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
+- 😄 GitHub Profile Page <a href="https://sevdanurgenc.github.io">https://sevdanurgenc.github.io</a> 
   </p>
 
 
