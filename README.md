@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my doctoral thesis 
 - 🌱 I’m currently learning on data science
 - 👯 I’m looking to collaborate on data science projects
-- 🤔 I’m looking for help with ...
+- ✍🏻 I wrote coding articles on sevdanurgenc.com
 - 💬 Ask me about everything
 - 📫 How to reach me: sevdanurgenc@gmail.con 
   </p>
