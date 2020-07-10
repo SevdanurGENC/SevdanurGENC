@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Nano 👨‍💻
+  Hi there 👋 I'm Nano 👩🏻‍💻👩🏻‍🏫
 </h1>
 
 <p align='center'>
@@ -31,10 +31,10 @@
 
 
 
-
+<!--
 ### Hi there 👋
 
-<!--
+
 **SevdanurGENC/SevdanurGENC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
