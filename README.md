@@ -15,7 +15,7 @@
 - 📫 How to reach me: sevdanurgenc@gmail.con 
   </p>
 
-
+https://profile-summary-for-github.com/user/SevdanurGENC
 
 
 <p align='center'>
