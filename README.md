@@ -10,12 +10,12 @@
 - 🔭 I’m currently working on my doctoral thesis 
 - 🌱 I’m currently learning on data science
 - 👯 I’m looking to collaborate on data science projects
-- ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com">http://sevdanurgenc.com</a>
-- 🤔 I wrote academic articles on <a href="http://abis.kastamonu.edu.tr/?psno=10893">http://abis.kastamonu.edu.tr/?psno=10893</a> 
+- ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank" >http://sevdanurgenc.com</a>
+- 🤔 I wrote academic articles on <a href="http://abis.kastamonu.edu.tr/?psno=10893" target="_blank">http://abis.kastamonu.edu.tr/?psno=10893</a> 
 - 💬 Ask me about everything
 - 📫 How to reach me: sevdanurgenc@gmail.con 
-- ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
-- 😄 GitHub Profile Page <a href="https://sevdanurgenc.github.io">https://sevdanurgenc.github.io</a> 
+- ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
+- 😄 GitHub Profile Page <a href="https://sevdanurgenc.github.io" target="_blank">https://sevdanurgenc.github.io</a> 
   </p>
 
 
