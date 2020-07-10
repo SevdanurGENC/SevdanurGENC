@@ -13,7 +13,7 @@
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
 - 🤔 I wrote academic articles on <a href="http://abis.kastamonu.edu.tr/?psno=10893" target="_blank">http://abis.kastamonu.edu.tr/?psno=10893</a> 
 - 💬 Ask me about everything
-- 📫 How to reach me: sevdanurgenc@gmail.con 
+- 📫 How to reach me: <a href="mailto:sevdanurgenc@gmail.com">sevdanurgenc@gmail.com</a>  
 - ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
 - 😄 GitHub Profile Page <a href="https://sevdanurgenc.github.io" target="_blank">https://sevdanurgenc.github.io</a> 
   </p>
