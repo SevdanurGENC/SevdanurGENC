@@ -6,10 +6,23 @@
 
 <p align='center'>
   An academician and computer engineer from Kastamonu, Turkey.
-</p>
+ 
+- 🔭 I’m currently working on my doctoral thesis 
+- 🌱 I’m currently learning on data science
+- 👯 I’m looking to collaborate on data science projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about everything
+- 📫 How to reach me: sevdanurgenc@gmail.con 
+  </p>
+
+
+
 
 <p align='center'>
  
+ <a href="https://www.youtube.com/channel/UCOsXmclbEKgC8tMqcL_SMvQ">
+    <img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sevdanurgenc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -26,10 +39,6 @@
 <p align='center'>
   <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=sevdanurgenc.sevdanurgenc"></a>
   </p>
-
- 
-
-
 
 <!--
 ### Hi there 👋
