@@ -16,6 +16,7 @@
 - 📫 How to reach me: <a href="mailto:sevdanurgenc@gmail.com">sevdanurgenc@gmail.com</a>  
 - ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
 - 😄 GitHub Profile Page <a href="https://sevdanurgenc.github.io" target="_blank">https://sevdanurgenc.github.io</a> 
+- 😄 Kaggle Profile Page <a href="https://www.kaggle.com/sevdanurgenc" target="_blank">https://www.kaggle.com/sevdanurgenc</a>
   </p>
 
 
