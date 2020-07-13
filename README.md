@@ -7,7 +7,7 @@
 <p align='center'>
   An academician and computer engineer from Kastamonu, Turkey.
  
-- 🔭 I’m currently working on my doctoral thesis 
+- 🔭 I’m currently working on my doctoral thesis about software testing tools
 - 🌱 I’m currently learning on data science
 - 👯 I’m looking to collaborate on data science projects
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
