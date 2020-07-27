@@ -38,11 +38,6 @@
   
 </p>
 
- 
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=sevdanurgenc.sevdanurgenc"></a>
-  </p>
-
 <!--
 ### Hi there 👋
 
