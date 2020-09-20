@@ -21,13 +21,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevdanurgenc&layout=compact&hide=html" alt="sevdanurgenc" /></p>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevdanurgenc&show_icons=true" alt="sevdanurgenc" /></p>
-
-<p align="center">
-<a href="https://linkedin.com/in/sevdanurgenc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sevdanurgenc" height="30" width="30" /></a>
-</p>
+ 
 
 
 <p align='center'>
