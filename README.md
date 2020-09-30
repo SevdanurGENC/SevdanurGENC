@@ -23,6 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevdanurgenc&layout=compact&hide=html" alt="sevdanurgenc" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sevdanurgenc&show_icons=true" alt="sevdanurgenc" /></p>
  
+[![Repositories](https://sevdanurgenc-github-readme-stats.vercel.app/api/repos/?username=sevdanurgenc&top=7)](https://github.com/sevdanurgenc?tab=repositories)
 
 
 <p align='center'>
