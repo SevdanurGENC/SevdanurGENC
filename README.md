@@ -25,6 +25,14 @@
  
 [![Repositories](https://sevdanurgenc-github-readme-stats.vercel.app/api/repos/?username=sevdanurgenc&top=7)](https://github.com/sevdanurgenc?tab=repositories)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SevdanurGENC&repo=PyQt5-SQLite-CRUD-Project)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SevdanurGENC&repo=Flutter-Mini-Project)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SevdanurGENC&repo=E-Commerce-Flutter-App)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SevdanurGENC&repo=TensorFlowTutorialBeginner)
+
+
+
+
 
 <p align='center'>
  
