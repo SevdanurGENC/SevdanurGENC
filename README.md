@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning on data science
 - 👯 I’m looking to collaborate on data science projects
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
-- 💬 I'm talking about programming most of the time on this youtube channel <a href="https://www.youtube.com/c/sevdanurgenc" target="_blank">https://www.youtube.com/c/sevdanurgenc</a>
+- 💥 I'm talking about programming most of the time on this youtube channel <a href="https://www.youtube.com/c/sevdanurgenc" target="_blank">https://www.youtube.com/c/sevdanurgenc</a>
 - 🤔 I wrote academic articles on <a href="http://abis.kastamonu.edu.tr/?psno=10893" target="_blank">http://abis.kastamonu.edu.tr/?psno=10893</a> 
 - 💬 Ask me about everything
 - 📫 How to reach me: <a href="mailto:sevdanurgenc@gmail.com">sevdanurgenc@gmail.com</a>  
