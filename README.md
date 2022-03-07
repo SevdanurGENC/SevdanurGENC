@@ -8,6 +8,7 @@
   An academician and computer engineer from Kastamonu, Turkey.
  
 - 🔭 Recently, I have been writing articles and books for my academic studies in many fields on information technologies. 
+- 🌱 I’m currently working as an academician in the computer department of a university. I also give trainings to companies working on software.
 - 👯 I’m looking to collaborate on data science projects
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
 - 💥 I'm talking about programming most of the time on this youtube channel <a href="https://www.youtube.com/c/sevdanurgenc" target="_blank">https://www.youtube.com/c/sevdanurgenc</a>
