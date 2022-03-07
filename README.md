@@ -1,18 +1,17 @@
 
 
 <h1 align='center'>
-  Hi there 👋 I'm Nano 👩🏻‍💻👩🏻‍🏫
+  Hi there 👋 I'm Dr. Nano 👩🏻‍💻👩🏻‍🏫
 </h1>
 
 <p align='center'>
   An academician and computer engineer from Kastamonu, Turkey.
  
-- 🔭 I’m currently working on my doctoral thesis about software testing tools
-- 🌱 I’m currently learning on data science
+- 🔭 Recently, I have been writing articles and books for my academic studies in many fields on information technologies. 
 - 👯 I’m looking to collaborate on data science projects
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
 - 💥 I'm talking about programming most of the time on this youtube channel <a href="https://www.youtube.com/c/sevdanurgenc" target="_blank">https://www.youtube.com/c/sevdanurgenc</a>
-- 🤔 I wrote academic articles on <a href="http://abis.kastamonu.edu.tr/?psno=10893" target="_blank">http://abis.kastamonu.edu.tr/?psno=10893</a> 
+- 🤔 I wrote academic articles on <a href="https://sevdanurgenc.github.io/#articles" target="_blank">https://sevdanurgenc.github.io/#articles</a> 
 - 💬 Ask me about everything
 - 📫 How to reach me: <a href="mailto:sevdanurgenc@gmail.com">sevdanurgenc@gmail.com</a>  
 - ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
