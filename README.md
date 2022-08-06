@@ -9,7 +9,7 @@
  
 - 🔭 Recently, I have been writing articles and books for my academic studies in many fields on information technologies. 
 - 🌱 I’m currently working as an academician in the computer department of a university. At the same time, I give software training to many well-known software companies working on software.
-- 👯 I’m looking to collaborate on data science projects
+- 👯 I have worked on artificial intelligence in the past. Recently, I have been working on Quantum Programming, Quantum Machine Learning and Blockchain. I’m looking to collaborate on data science projects.
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
 - 💥 I'm talking about programming most of the time on this youtube channel <a href="https://www.youtube.com/c/sevdanurgenc" target="_blank">https://www.youtube.com/c/sevdanurgenc</a>
 - 🤔 I wrote academic articles on <a href="https://sevdanurgenc.github.io/#articles" target="_blank">https://sevdanurgenc.github.io/#articles</a> 
