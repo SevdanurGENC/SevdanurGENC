@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  Asst.Prof.Dr and Computer Engineer from Kastamonu, Turkey.
+  Assist. Prof. Dr. and Computer Engineer from Kastamonu, Turkey.
  
 - 🔭 Recently, I have been writing articles and books for my academic studies in many fields on information technologies. 
 - 🌱 I’m currently working as an academician in the computer department of a university. At the same time, I give software training to many well-known software companies working on software.
