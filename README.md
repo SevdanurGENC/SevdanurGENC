@@ -12,7 +12,7 @@
 - 👯 I have worked on artificial intelligence in the past. Recently, I have been working on Quantum Programming, Quantum Machine Learning and Blockchain. I’m looking to collaborate on data science projects.
 - ✍🏻 I wrote coding articles on <a href="http://sevdanurgenc.com" target="_blank">http://sevdanurgenc.com</a>
 - 💥 I'm talking about programming most of the time on this youtube channel <a href="https://www.youtube.com/c/sevdanurgenc" target="_blank">https://www.youtube.com/c/sevdanurgenc</a>
-- 🤔 I wrote academic articles on <a href="https://sevdanurgenc.github.io/#articles" target="_blank">https://sevdanurgenc.github.io/#articles</a> 
+- 🤔 I wrote academic articles on <a href="[https://sevdanurgenc.github.io/#articles](https://sevdanurgenc.github.io/#publications)" target="_blank">https://sevdanurgenc.github.io/#articles</a> 
 - 💬 Ask me about everything
 - 📫 How to reach me: <a href="mailto:sevdanurgenc@gmail.com">sevdanurgenc@gmail.com</a>  
 - ⚡ Summary of my GitHub profile <a href="https://profile-summary-for-github.com/user/SevdanurGENC" target="_blank">https://profile-summary-for-github.com/user/SevdanurGENC</a> 
